@@ -1,3 +1,13 @@
+INT 499 Group 2 assignment starting at week 3. 
+
+Initial creation by James Shiflett.
+
+Once feedback or changes are made by other group members, their names will be added here. 
+
+Updates / feedback: 
+      James S
+      Kasumy L
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
