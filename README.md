@@ -7,6 +7,8 @@ Once feedback or changes are made by other group members, their names will be ad
 Updates / feedback: 
       James S
       Kasumy L
+      Calvin S
+      Alejandra H
 
 # Getting Started with Create React App
 
