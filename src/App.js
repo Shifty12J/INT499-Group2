@@ -11,7 +11,7 @@ function App() {
         <Router>
             <div className="App">
                 <header>
-                    <h1 className="app-title">StreamList</h1>
+                    <h1 className="app-title">EZ Tech Movies</h1>
                     <nav className="navbar">
                         <Link to="/" className="nav-button">
                             Home
