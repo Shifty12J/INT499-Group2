@@ -17,7 +17,7 @@ function SignIn({ onLogin }) {
 
     return (
         <div className="signin-page">
-            <h2>Sign into StreamList!</h2>
+            <h2>Sign in to StreamList!</h2>
             <p>Please sign in to continue.</p>
             {/* Google Login button */}
             <GoogleLogin onSuccess={handleLoginSuccess} onError={handleLoginError} />
