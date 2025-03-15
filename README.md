@@ -2,13 +2,7 @@ INT 499 Group 2 assignment starting at week 3.
 
 Initial creation by James Shiflett.
 
-Once feedback or changes are made by other group members, their names will be added here. 
-
-Updates / feedback: 
-      James S
-      Kasumy L
-      Calvin S
-      Alejandra H
+Updated for Week 5 Req.
 
 # Getting Started with Create React App
 
